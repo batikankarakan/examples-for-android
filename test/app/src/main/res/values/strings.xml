@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">test</string>
+    <string name="title_activity_linear_layout_demo">activity_linear_layout_demo</string>
+</resources>

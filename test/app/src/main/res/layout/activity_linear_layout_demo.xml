@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity_linear_layout_demo">
+
+    <Button
+        android:id="@+id/btn_show_horizantal_example"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Horizantal Example"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp" />
+
+    <Button
+        android:id="@+id/btn_show_horizantal_example"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Vertical Example"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="144dp" />
+
+    <Button
+        android:id="@+id/btn_show_horizantal_example"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Weight Example"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="96dp" />
+
+    <Button
+        android:id="@+id/btn_show_horizantal_example"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Gravity Example"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="48dp" />
+
+</android.support.constraint.ConstraintLayout>
